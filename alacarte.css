@@ -65,7 +65,7 @@ nav ul li::after{
 nav ul li:hover::after{
     width: 100%;
 
-}}
+}
 .header {
     height: 80px;
     width: 70%;
