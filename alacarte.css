@@ -12,7 +12,8 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url("logo11.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url("green.jpg")
+");
     background-repeat: repeat;
 }
 
